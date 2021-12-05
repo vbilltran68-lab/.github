@@ -9,6 +9,9 @@ Simple Microservice Build By NestJs Application
 ### Microservice Flow
 ![Annio Flow](https://github.com/annio-lab/annio-starter/raw/master/assets/annio-microservice-flow.png)
 
+### Deployment
+Using Heroku Cloud
+
 ### Demo
 
 - link: https://annio-shop.herokuapp.com/
