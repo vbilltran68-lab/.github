@@ -23,7 +23,6 @@ This project is used for testing with microservices approach.
 - [ ] Use Pattern: [Service component test](https://microservices.io/patterns/testing/service-component-test.html)
 - [ ] Use Pattern: [Service integration contract test](https://microservices.io/patterns/testing/service-integration-contract-test.html)
 
-
 #### Deployment
 - [ ] Use Pattern: [Multiple services per host](https://microservices.io/patterns/deployment/multiple-services-per-host.html)
 - [ ] Use Pattern: [Single service instance per host](https://microservices.io/patterns/deployment/single-service-per-host.html)
@@ -42,9 +41,11 @@ This project is used for testing with microservices approach.
 - [ ] Use Pattern: [Messaging](https://microservices.io/patterns/communication-style/messaging.html)
 - [ ] Use Pattern: [Domain-specific protocol](https://microservices.io/patterns/communication-style/domain-specific.html)
 - [ ] Use Pattern: [Idempotent Consumer](https://microservices.io/patterns/communication-style/idempotent-consumer.html)
+- [ ] Use gRPC: [gRPC](https://grpc.io/)
 
 #### Observability
 - [ ] Use Pattern: [Log aggregation](https://microservices.io/patterns/observability/application-logging.html)
+
 
 ## Architecture
 ![Annio Flow](https://github.com/annio-lab/annio-starter/raw/master/assets/annio-microservice-flow.png)
