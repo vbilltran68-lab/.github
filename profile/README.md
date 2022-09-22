@@ -17,7 +17,7 @@ This project is used for testing with microservices approach.
 #### Transactional messaging
 - [ ] Use Pattern: [Transactional Outbox](https://microservices.io/patterns/data/transactional-outbox.html)
 - [ ] Use Pattern: [Transaction log tailing](https://microservices.io/patterns/data/transaction-log-tailing.html)
-- [ ] Use Pattern: [Pollinnng publisher](https://microservices.io/patterns/data/polling-publisher.html)
+- [ ] Use Pattern: [Polling publisher](https://microservices.io/patterns/data/polling-publisher.html)
 
 #### Testing
 - [ ] Use Pattern: [Service component test](https://microservices.io/patterns/testing/service-component-test.html)
