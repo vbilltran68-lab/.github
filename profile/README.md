@@ -48,7 +48,7 @@ This project is used for testing with microservices approach.
 
 
 ## Architecture
-![Annio Flow](https://github.com/annio-lab/annio-starter/raw/master/assets/annio-microservice-flow.png)
+![Annio Flow]()
 
 ### Deployment
 Using Heroku Cloud
